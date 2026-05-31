@@ -1,5 +1,7 @@
 # FutureMe - Meet Your Future Self
 
+**Live Demo URL**: [https://hilarious-blini-fb4b12.netlify.app](https://hilarious-blini-fb4b12.netlify.app)
+
 FutureMe is a premium, AI-powered personal reflection web application. Users enter details about their current life, goals, struggles, and future ambitions. The app then leverages the Google Gemini API to generate a powerful, emotionally intelligent response from their future self who already succeeded. After generation, users can engage in a real-time, context-aware chat conversation with this future self.
 
 Developed under **Nitish's Founder Labs**.
